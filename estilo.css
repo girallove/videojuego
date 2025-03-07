@@ -14,3 +14,8 @@ body {
     width: 100%;
 }
 
+h1 {
+    font-size: 48px;
+    color: rgb(223, 8, 8);
+}
+
